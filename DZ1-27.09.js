@@ -1,4 +1,4 @@
-const arr = 'HellO woRlD!';
+const str = 'HellO woRlD!';
 
 function reverseCase(str) {
     let result = "";
@@ -14,7 +14,7 @@ function reverseCase(str) {
     return result
     
 }
-console.log(reverseCase(arr));
+console.log(reverseCase(str));
 
 function crash1(){
     let i = 1;
