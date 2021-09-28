@@ -9,7 +9,6 @@ function reverseCase(str) {
         letter.toLowerCase()
     }
     return result
-    
 }
 console.log(reverseCase(str));
 
@@ -21,9 +20,7 @@ function crash1(){
             console.log(a); 
     }
 }
-
 crash1();
-
 
 function crach2(x) {
     if (x >= 100000000)
