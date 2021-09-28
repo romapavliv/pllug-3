@@ -35,3 +35,5 @@ function crach2(x) {
 }
 
 crach2(0);
+
+Умови в циклі reverseCase функції можна виконати простіше.
