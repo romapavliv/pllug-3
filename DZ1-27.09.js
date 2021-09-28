@@ -6,9 +6,9 @@ function reverseCase(str) {
         let letter = str[i];
 
         if(letter === letter.toLowerCase()){
-            result += letter.toUpperCase()
+            result += letter.toUpperCase();
         }else{
-            result += letter.toLowerCase()
+            result += letter.toLowerCase();
         }
     }
     return result
