@@ -2,8 +2,8 @@ const str = 'HellO woRlD!';
 
 function reverseCase(str) {
     let result = "";
-    for (let i = 0; i < str.length; i++) {
-        let letter = str[i];
+    for (let i of str) {
+        let letter = i;
         result += (letter === letter.toLowerCase())?
         letter.toUpperCase():
         letter.toLowerCase()
