@@ -37,3 +37,5 @@ console.log(pet);
 // console.log(animals);
 
 })
+
+Завдання виконано неповністю.
