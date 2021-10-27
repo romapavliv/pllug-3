@@ -137,3 +137,5 @@ const refreshPage = () => {
 };
 
 playAgain.addEventListener("click", refreshPage);
+
+Завдання виконано
